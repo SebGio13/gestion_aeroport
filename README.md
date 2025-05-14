@@ -1,4 +1,5 @@
 Identifiants de connexion pour tester la page de login:
+-----------------------------------------------------------------------------------------------------------------------
 gslarke0@mtv.com		--> 	123456
 052b89cb3f6c4e7acbfa7b90c246f312e5954aa49e4c562406fc2f522cd2f806
 
